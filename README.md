@@ -1,4 +1,5 @@
 # PPGBuyBuyBuy
+![](http://cdn.macrumors.com/article-new/2011/07/applecampusshirt-500x325.jpg)
 
 ## 图片(可能需要翻墙)
 [文化衫1](http://www.cultofmac.com/175839/these-are-all-the-shirts-apple-sells-at-the-company-store-in-cupertino-gallery/)
