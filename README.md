@@ -17,3 +17,4 @@
 | 称呼（Varchar(31)，必须）| 需求（Varchar(255)，必须）| 评论（Varchar(255)，可选）|
 | ------------- |-------------:| :-----|
 | 举例：猴子       | 1个黑色圆柱mug，1个白色椭圆mug，1件蓝色"visited Mothership"(XL)，一件紫色"siri tutu"(L)，以此类推的“数量+颜色+样式+商品特征”，以逗号分开 |文化衫描述不需要全文，只需要几个关键词|
+| 举例：猴子       | 1件黑色"I visited the Apple compus..."(L), 1件蓝色"Siri, is it warm enough..."(L) | 猴菊么么哒 |
