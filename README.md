@@ -20,3 +20,4 @@
 | 缺儿 | 1件黑色"I visited the Apple campus..."(L), 1件蓝色"Siri, is it warm enough..."(L) | 猴菊么么哒 |
 | Shamisen | 1件黑色"I visited the Apple campus..."(L), 1件蓝色"Siri, is it warm enough..."(L) | 猴菊么么哒 |
 | Eric | 1件黑色"I visited the Apple campus..."(S) | 辛苦了猴菊 |
+| 低端码农 | 1件黑色"I visited the Apple campus..."(L) | 辛苦了猴菊 |
