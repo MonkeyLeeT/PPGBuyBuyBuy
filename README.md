@@ -19,3 +19,4 @@
 | 举例：猴子       | 1个黑色圆柱mug，1个白色椭圆mug，1件蓝色"visited Mothership"(XL)，一件紫色"siri tutu"(L)，以此类推的“数量+颜色+样式+商品特征”，以逗号分开 |文化衫描述不需要全文，只需要几个关键词|
 | 缺儿 | 1件黑色"I visited the Apple campus..."(L), 1件蓝色"Siri, is it warm enough..."(L) | 猴菊么么哒 |
 | Shamisen | 1件黑色"I visited the Apple campus..."(L), 1件蓝色"Siri, is it warm enough..."(L) | 猴菊么么哒 |
+| Eric | 1件黑色"I visited the Apple campus..."(S) | 辛苦了猴菊 |
