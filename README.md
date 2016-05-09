@@ -3,13 +3,14 @@
 
 ##### 1. 图片（可能需要翻墙）
 [文化衫1](http://www.cultofmac.com/175839/these-are-all-the-shirts-apple-sells-at-the-company-store-in-cupertino-gallery/)
-[文化衫2](http://www.cultofmac.com/426461/apple-only-sells-these-retrotastic-t-shirts-at-its-campus-store/)
+[文化衫2](http://www.yelp.com/biz_photos/apple-store-cupertino-5?select=AhSBo5AgG5-xvaxizn9Kpg)
+[文化衫3](http://www.cultofmac.com/426461/apple-only-sells-these-retrotastic-t-shirts-at-its-campus-store/)
 [其他](https://www.google.com/search?q=apple+store+mugs&biw=1892&bih=682&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjozrHUrMLMAhUS5mMKHZ-3AYMQ_AUIBygC#imgrc=nCVv58K_LcsdtM%3A)
 
 ##### 2. 参数（not final）
 | 商品|可选颜色|可选样式|
 | ------------- |:-------------| :-----|
-| T-shirt|蓝，紫，黄，白，黑|XXL，XL，L，M，S|
+| T-shirt|红，绿，青，蓝，紫，白，黑，灰，|XXL，XL，L，M，S|
 | 儿童装|同上|L，M，S|
 | Mug|黑，白|圆柱，椭圆|
 
@@ -21,4 +22,4 @@
 | Shamisen | 1件黑色"I visited the Apple campus..."(L), 1件蓝色"Siri, is it warm enough..."(L) | 猴菊么么哒 |
 | 阿姨	| 一件蓝色儿童装(M) | 猴菊么么哒 |
 | Eric | 1件黑色"I visited the Apple campus..."(S) | 辛苦了猴菊 |
-
+| 低端码农 | 1件黑色"I visited the Apple campus..."(L) | 辛苦了猴菊 |
