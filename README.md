@@ -50,7 +50,7 @@
 | 举例：猴子| 1个黑色圆柱杯子，1个白色椭圆杯子，1件蓝色"visited Mothership"(XL)，一件紫色(备选蓝色)"siri tutu"(L)，以此类推的“数量+颜色+样式+商品特征”，以逗号分开 |文化衫描述不需要全文，只需要几个关键词|
 | 缺儿 | 1件黑色"I visited the Apple campus..."(L), 1件蓝色"Siri, is it warm enough..."(L) | 猴菊么么哒 |
 | Shamisen | 1件黑色"I visited the Apple campus..."(L), 1件蓝色"Siri, is it warm enough..."(L) | 猴菊么么哒 |
-| 阿姨	| 一件蓝色儿童装(M) | 猴菊么么哒 |
+| 阿姨	| 一件蓝色儿童装(6个月) | 猴菊么么哒 |
 | Eric | 1件黑色"I visited the Apple campus..."(S) | 辛苦了猴菊 |
 | 低端码农 | 1件黑色"I visited the Apple campus..."(L) | 辛苦了猴菊 |
 | playing | 1件黑色"I visited the Mothership..."(XL),1件绿色"I am mac compatible ."(XL) | 辛苦了猴菊 |
