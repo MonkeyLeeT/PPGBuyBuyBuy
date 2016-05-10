@@ -55,5 +55,5 @@
 | playing | 1件黑色"I visited the Mothership..."(XL),1件绿色"I am mac compatible ."(XL) | 辛苦了猴菊 |
 | Ahri | 1件灰色"Siri, is it warm enough..."(M) | 辛苦了猴菊 |
 | Zzzz | 1件黑色"I visited the Apple campus..."(S) | 辛苦了猴菊 |
-
+| Nega | 1个黑色圆柱杯子, 1件蓝色"Siri, is it warm enough..."(XL) | 猴菊么么哒 |
 
