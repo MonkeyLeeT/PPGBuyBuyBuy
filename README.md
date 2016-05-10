@@ -24,6 +24,5 @@
 | 阿姨	| 一件蓝色儿童装(M) | 猴菊么么哒 |
 | Eric | 1件黑色"I visited the Apple campus..."(S) | 辛苦了猴菊 |
 | 低端码农 | 1件黑色"I visited the Apple campus..."(L) | 辛苦了猴菊 |
+| playing | 1件黑色"I visited the Mothership..."(XL),1件绿色"I am mac compatible ."(XL) | 辛苦了猴菊 |
 | Ahri | 1件灰色"Siri, is it warm enough..."(M) | 辛苦了猴菊 |
-
-
