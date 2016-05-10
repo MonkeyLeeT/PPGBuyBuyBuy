@@ -12,6 +12,7 @@
 | ------------- |:-------------| :-----|
 | T-shirt|红，绿，青，蓝，紫，白，黑，灰，|XXL，XL，L，M，S|
 | 儿童装|同上|L，M，S|
+| 衬衫／外套|灰，白，黑|同T-shirt|
 | Mug|黑，白|圆柱，椭圆|
 
 ##### 3. 清单（PR请只编辑以下区域，且在同一行内描述）（__尺码均为美式尺码，请自行确认__）
@@ -23,4 +24,6 @@
 | 阿姨	| 一件蓝色儿童装(M) | 猴菊么么哒 |
 | Eric | 1件黑色"I visited the Apple campus..."(S) | 辛苦了猴菊 |
 | 低端码农 | 1件黑色"I visited the Apple campus..."(L) | 辛苦了猴菊 |
+| Ahri | 1件灰色"Siri, is it warm enough..."(M) | 辛苦了猴菊 |
 | Zzzz | 1件黑色"I visited the Apple campus..."(S) | 辛苦了猴菊 |
+
