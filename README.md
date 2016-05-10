@@ -1,5 +1,4 @@
 ## PPGBuyBuyBuy
-![](http://cdn.macrumors.com/article-new/2011/07/applecampusshirt-500x325.jpg)
 
 ##### 1. 图片（可能需要翻墙）
 [综合](http://www.yelp.com/biz_photos/apple-store-cupertino-5?start=0)
@@ -12,7 +11,7 @@
 [水壶2](http://img.groundspeak.com/waymarking/e00e755f-441d-49aa-a00f-dc8b78908087.jpg)
 [帽子](http://www.yelp.com/biz_photos/apple-store-cupertino-5?select=uIb2nb9ryuOcDLmhJZVkvA)
 
-##### 2. 文化衫问题
+##### 2. 文化衫文字
 * I intuitively knew how to put this T-shirt on.
 * Designed by Apple in California.
 * I left my heart in Cupertino.
