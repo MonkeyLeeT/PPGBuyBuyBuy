@@ -57,5 +57,6 @@
 | Zzzz | 1件黑色"I visited the Apple campus..."(S) | 辛苦了猴菊 |
 | Dovey | 1件白色文化衫3中的 Macintosh icons T-shirt(M) 1件白色椭圆杯子 1件黑色帽子 | 辛苦了猴菊 么么哒|
 | 挽尊喵 | 1件黑色"I visited the Apple campus..."(S) | 辛苦了猴菊 |
+| 安总 | 1件黑色"I visited the Apple campus..."(XL),1件灰色"Siri, is it warm enough..."(XL) | 么么哒猴菊 |
 
 
