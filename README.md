@@ -1,9 +1,9 @@
 ## PPGBuyBuyBuy
 
 ##### 1. 图片（可能需要翻墙）
-[文化衫1](https://github.com/MonkeyLeeT/PPGBuyBuyBuy/blob/master/tshirt2.jpg?raw=true)
-[文化衫2](https://github.com/MonkeyLeeT/PPGBuyBuyBuy/blob/master/tshirt1.jpg?raw=true)
-[其他](https://github.com/MonkeyLeeT/PPGBuyBuyBuy/blob/master/misc.jpg?raw=true)
+![文化衫1](https://github.com/MonkeyLeeT/PPGBuyBuyBuy/blob/master/tshirt2.jpg?raw=true)
+![文化衫2](https://github.com/MonkeyLeeT/PPGBuyBuyBuy/blob/master/tshirt1.jpg?raw=true)
+![其他](https://github.com/MonkeyLeeT/PPGBuyBuyBuy/blob/master/misc.jpg?raw=true)
 
 ##### 2. 已知商品参数（最好是在图片里有的，不保证每个样式和颜色的组合都能找到）
 | 商品|可选颜色|可选样式|取整后商店售价(消费税，运费及关税最后付款时结算)]
