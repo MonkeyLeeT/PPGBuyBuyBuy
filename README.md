@@ -22,7 +22,7 @@
 | Eric | | 辛苦了猴菊 |
 | 低端码农 |  1个白色水杯，1件白色logot(XL) | 辛苦了猴菊 |
 | playing | 1件灰色彩虹苹果logoT（XL），1件黑色“crazyone”T（XL）| 辛苦了猴菊 |
-| Ahri | 1件黑色“crazyone”T（L）| 猴菊么♂么♂哒 |
+| Ahri | 1件黑色“crazyone”T（L）| 猴菊么♂么♂哒~ |
 | Zzzz | | 辛苦了猴菊 |
 | Dovey | | 辛苦了猴菊 么么哒|
 | 挽尊喵 |  | 辛苦了猴菊 |
