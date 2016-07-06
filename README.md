@@ -23,4 +23,4 @@
 | playing | 1件灰色彩虹苹果logoT（XL），1件黑色“crazyone”T（XL）| 辛苦了猴菊 |
 | Ahri | 1件黑色“crazyone”T（L）| 猴菊么♂么♂哒~ |
 | Zzzz | 1个白色保温杯, 1个白色水杯, 1个黑色水杯, 1支黑色的笔(最左边那个), 1件白色苹果灰logoT(M) | 辛苦了猴菊 |
-| Albert(MMT) | 1个银色水杯，1件白色显示器T恤（第二张图片第一行第四个），意见crazyOneT恤， | 多谢猴菊 |
+| Albert(MMT) | 1个银色水杯，1件白色显示器T恤(XL)（第二张图片第一行第四个），一件crazyOneT恤(XL)， | 多谢猴菊 |
